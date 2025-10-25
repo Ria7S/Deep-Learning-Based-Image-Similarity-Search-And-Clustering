@@ -74,7 +74,7 @@ The model retrieves top 5 visually similar images with their cosine similarity s
 
 | Query Image                | Similar Images                                                                                                                                   |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![query](assets/query.jpg) | ![similar1](assets/sim1.jpg) ![similar2](assets/sim2.jpg) ![similar3](assets/sim3.jpg) ![similar4](assets/sim4.jpg) ![similar5](assets/sim5.jpg) |
+| ![query](images/query.png) | ![similar1](images/result.png)  |
 
 ---
 
